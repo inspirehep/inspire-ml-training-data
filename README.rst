@@ -5,7 +5,7 @@ INSPIRE Machine Learning Training Sets
 .. image:: https://img.shields.io/github/license/inspirehep/inspire-ml-training-data.svg
     :target: https://github.com/inspirehep/inspire-ml-training-data/blob/master/LICENSE
     
-Data used as our training sets for the many projects we now have. Stored using Git LFS ()https://git-lfs.github.com/).
+Data used as our training sets for the many projects we now have. Stored using Git LFS (https://git-lfs.github.com/).
 
 Magpie
 ===========
